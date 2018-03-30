@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "e5b3f78dc2ad9ea407aea8ebfe6afc21"
+build_time: [1522300765, 940724000]
+inputs:
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/AFError.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Alamofire.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/MultipartFormData.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Notifications.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/ParameterEncoding.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Request.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Response.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/ResponseSerialization.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Result.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/SessionDelegate.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/SessionManager.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/TaskDelegate.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Timeline.swift": [1521530884, 0]
+  "/Users/tejaswini/Desktop/MapDemo/Pods/Alamofire/Source/Validation.swift": [1521530884, 0]

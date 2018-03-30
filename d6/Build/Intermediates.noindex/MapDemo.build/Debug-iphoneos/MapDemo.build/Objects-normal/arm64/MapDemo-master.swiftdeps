@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "88ff2abdbc9fd66f509bea7f8a88d2f2"
+build_time: [1522387711, 388662000]
+inputs:
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/PlacesPickerModule.swift": [1522215576, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/PickerCell.swift": [9223372036, 854775807]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/MapTasks.swift": [1521551498, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/AppDelegate.swift": [1522150260, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/NearByPlacesCell.swift": [1522306183, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/NearByPlacesDetail.swift": [1522308683, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/NearByPlacesModule.swift": [1522308055, 0]
+  "/Users/tejaswini/Desktop/MapDemo/MapDemo/MapViewController.swift": [1522331873, 0]
